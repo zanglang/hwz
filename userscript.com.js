@@ -1,11 +1,13 @@
 // ==UserScript==
+// @author     Jerry Chong
 // @name       Hardwarezone.com.sg
 // @version    0.1
-// @description  Cleans up Hardwarezone.com.sg forums and price lists
-// @namespace    https://github.com/zanglang/hwz
-// @icon            http://www.hardwarezone.com.sg/img/icons/hwz.ico
-// @include			http*://forums.hardwarezone.com.sg/*
-// @include			http*://www.hardwarezone.com.sg/priceLists/preview/*
+// @description Cleans up Hardwarezone.com.sg forums and price lists
+// @namespace   https://github.com/zanglang/hwz
+// @icon        http://www.hardwarezone.com.sg/img/icons/hwz.ico
+// @include		http*://forums.hardwarezone.com.sg/*
+// @include		http*://www.hardwarezone.com.sg/priceLists/preview/*
+// @downloadURL https://raw.githubusercontent.com/zanglang/hwz/master/userscript.com.js
 // ==/UserScript==
 
 /*global unsafeWindow: true, GM_addStyle: true  */
